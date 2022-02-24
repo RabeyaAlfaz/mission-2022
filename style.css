@@ -1,0 +1,50 @@
+.color-meroon {
+    color: #ffad5a;
+}
+
+.header-border {
+    border-left: 2px solid #ffad5a;
+}
+
+.flex-container1 {
+    display: flex;
+    background-color: aquamarine;
+    margin: auto;
+    width: 1128px;
+    height: 494px;
+}
+
+.header-button {
+    background-color: #ff5959;
+    border-radius: 5px;
+    border: none;
+    width: 172px;
+    height: 48px;
+
+}
+
+/* Second section starts */
+
+.second-part-header {
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container2 {
+    display: flex;
+    background-color: bisque;
+    width: 1128px;
+    height: 494px;
+    margin: auto;
+}
+
+.flex-container3 {
+    display: flex;
+    /* background-color: red; */
+    width: 1128px;
+    height: 400px;
+    margin: auto;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
